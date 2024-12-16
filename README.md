@@ -1,4 +1,3 @@
-
 # 🧮 **React Calculator**  
 
 A sleek and interactive calculator application built with React.js. This project demonstrates modern web development practices, including React's state management and reusable component-based design, paired with a clean and responsive UI.  
